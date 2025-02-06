@@ -1,4 +1,4 @@
 # SLIIT-City-UNI-Website-Redesign
 Redesigned the SLIIT City Uni website using Figma.
 
-![fig](https://github.com/user-attachments/assets/20e47f1e-8dda-4c9a-a706-ae9474aa0276)
+![Image](https://github.com/user-attachments/assets/b5f512c6-6507-4d85-b1b3-7620c38ab0d2)
